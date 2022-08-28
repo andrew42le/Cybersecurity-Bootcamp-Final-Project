@@ -11,7 +11,7 @@ Unit Objectives
 Days 1 and 2: Alert and Attacking Target 1
 - Configure alerts in Kibana
 - Attack a machine on the network.
-- Capture the flag on the victim machine.
+- Capture the flags on the victim machine.
 
 Day 3: Wireshark Strikes Back
 - Capture network traffic
