@@ -23,5 +23,3 @@ Day 4: Final Group Presentations
 - Complete and submit group presentations
 
 - Submit an offensive red team analysis
-- Submit a defensive blue team analysis
-- Submit a network forensic analysis.
